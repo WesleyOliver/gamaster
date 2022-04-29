@@ -15,6 +15,9 @@ Para o desenvolvimento da aplicação foram utilizadas as seguintes tecnologias:
 - [x] Java 11
 - [x] Spring Boot
 - [x] MySQL
+- [x] Lombok
+- [x] Flyway
+- [x] JUnit
 - [x] Swagger
 ***
 ### Diagrama de Classes
